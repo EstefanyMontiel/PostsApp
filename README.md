@@ -42,7 +42,6 @@ Una aplicación móvil desarrollada con React Native y Expo que permite crear, e
 ## 🚀 Instalación
 
 1. **Clonar el repositorio**
-```bash
   git clone https://github.com/EstefanyMontiel/PostsApp
   cd PostUp
   
