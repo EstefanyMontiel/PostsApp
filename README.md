@@ -81,7 +81,14 @@ Una aplicación móvil desarrollada con React Native y Expo que permite crear, e
   POST /posts - Crear un nuevo post
   PUT /posts/:id - Actualizar un post
   DELETE /posts/:id - Eliminar un post
-  
+
+
+
+  **PANTALLA (interfaz)
+  ![Imagen de WhatsApp 2025-11-12 a las 18 16 53_bbeaaa5b](https://github.com/user-attachments/assets/a162522a-08ad-456a-98a8-e151ff0b988d)
+  ![Imagen de WhatsApp 2025-11-12 a las 18 16 53_2dc49515](https://github.com/user-attachments/assets/9393231f-0bd0-4a1c-acad-1afc3b890c1f)
+![Imagen de WhatsApp 2025-11-12 a las 18 16 53_0bc4d74f](https://github.com/user-attachments/assets/24922221-30bc-4899-bdd2-c9a47a72683e)
+
   👨‍💻 Desarrollado por
   Estefany Montiel (@EstefanyMontiel)
   
